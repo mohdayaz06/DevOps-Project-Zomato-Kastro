@@ -461,7 +461,9 @@ Click on "skip now" (If you want you can create the password)
 You will see the Grafana dashboard
 
 The first thing that we have to do in Grafana is to add the data source
-Lets add the data source;
+Lets add the data source;(node exporter and jenkins)
+node exporter dashboard: https://grafana.com/grafana/dashboards/1860-node-exporter-full/ open this URL and copy id
+jenkins dashboard: https://grafana.com/grafana/dashboards/9964-jenkins-performance-and-health-overview/
 
 <Follow the process as explained in the video>
 
@@ -716,6 +718,7 @@ Kind Request:
 Once after you have successfully deployed the App, kindly share your experience on LinkedIn by Tagging me and also provide the YouTube link of this project in your post, as it helps others to access the video quickly. 
 ========================================================================================================
 												HAPPY LEARNING
+
 
 
 
